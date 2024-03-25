@@ -1,0 +1,1 @@
+Uma aplicação desenvolvida com React para o frontend, Spring Boot para o backend, PostgreSQL como banco de dados e PgAdmin para gerenciamento do banco. Permite o cadastro e a listagem de usuários, com integração fácil e rápida usando Docker
